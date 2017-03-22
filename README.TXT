@@ -1,4 +1,4 @@
-# Our code was contain in 6 seperate file:
+# Our code contains in 6 seperate file:
 
 1. Final Report-12-11.ipynb
     Contains some illustration of 
